@@ -31,7 +31,7 @@ moisture )
 
 Bulid|CppCheck|Codacy|
 -----|--------|------|
-[![CI Bliud](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/actions/workflows/bulid.yml/badge.svg)](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/actions/workflows/bulid.yml)|[![Cppcheck](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/actions/workflows/cppcheck.yml)|
+[![CI Bliud](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/actions/workflows/bulid.yml/badge.svg)](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/actions/workflows/bulid.yml)|[![Cppcheck](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/actions/workflows/cppcheck.yml)|![Code Grade](https://api.codiga.io/project/32990/status/svg)
 
 
 ## Requirements , Design and Implementation for project are given in below folders:
