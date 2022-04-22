@@ -1,4 +1,4 @@
-# M2_Virtual_Fencer_and_Water_Management-_in_Agriculture
+# Virtual Fencer and Water Management in Agriculture
 
 ## Introduction
 - Agriculture is the main source of livelihood of many people in different parts of the world. 
