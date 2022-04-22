@@ -8,6 +8,8 @@
   - Soil Moisture sensor
 - **Microcontroller**
   - ATMEG328(AVR-micrcocontroller)
+  - **PIN Diagram**
+  - ![1](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/blob/main/6_ImagesandVedios/ATmega328p-pinout.png)
 - **Event Modules**
   - Electric Fire ignitor 
 
