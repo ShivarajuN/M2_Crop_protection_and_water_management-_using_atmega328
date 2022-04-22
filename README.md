@@ -35,6 +35,14 @@ Bulid|CppCheck|Codacy|
 
 
 ## Requirements , Design and Implementation for project are given in below folders:
-- [1_Requirements]
-- [2_Architecture]
+- [1_Requirements](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/tree/main/1_Requirement)
+- [2_Architecture](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/tree/main/2_Architecture)
 - [3_Implementation](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/tree/main/3_Implementation)
+
+## Features 
+| Feature Id | Feature |
+| -----------|---------|
+|F_01| Automatic Animal detection|
+|F_02| Event action for Runout animal|
+|F_03| Soil moisture Detection|
+|F_04| Automatic Turn ON/OFF of motor|
