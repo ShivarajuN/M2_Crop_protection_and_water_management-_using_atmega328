@@ -46,3 +46,12 @@ Bulid|CppCheck|Codacy|
 |F_02| Event action for Runout animal|
 |F_03| Soil moisture Detection|
 |F_04| Automatic Turn ON/OFF of motor|
+
+## Working
+
+- Soil moisture > Threshold value
+  - ![1](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/blob/main/6_ImagesandVedios/MoterRunning.png)
+- Peizo electric sensor value >Threshols value
+  - ![2](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/blob/main/6_ImagesandVedios/ActionTaking.png)
+- Soil moisture and Peizo electric sensor value  > Threshols value
+  - ![3](https://github.com/ShivarajuN/M2_Virtual_Fencer_and_water_management-/blob/main/6_ImagesandVedios/Both.png)
