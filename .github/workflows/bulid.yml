@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: configure
-      run: ./configure
     - name: get_avr-gcc
       run:  sudo apt-get install gcc-avr binutils-avr avr-libc
     - name: bulid
