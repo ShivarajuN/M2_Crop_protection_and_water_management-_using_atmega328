@@ -1,4 +1,4 @@
-# Virtual Fencer and Water Management in Agriculture
+# Crop protection and water management- using atmega328
 
 ## Introduction
 - Agriculture is the main source of livelihood of many people in different parts of the world. 
